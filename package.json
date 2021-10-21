@@ -1,0 +1,15 @@
+{
+  "name": "speedtest-discord-bot",
+  "version": "1.0.0",
+  "description": "Check the Speed with -speedtest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fireball",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "speedtest-net": "^2.2.0"
+  }
+}
